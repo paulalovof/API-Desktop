@@ -5,11 +5,12 @@ CREATE TABLE `usuarios` (
   `nome` varchar(45) NOT NULL,
   `disciplina` varchar(45) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=237 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+)
 
 CREATE TABLE `notificacao` (
-  `id` int NOT NULL,
+  `id` int NOT NULL AUTO_INCREMENT,
   `titulo` varchar(30) NOT NULL,
   `corpo` varchar(30) NOT NULL,
-  `mostrar` tinyint(1) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+  `mostrar` tinyint(1) NOT NULL,
+  PRIMARY KEY (`id`)
+)

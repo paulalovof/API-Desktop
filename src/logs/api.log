@@ -1,0 +1,4 @@
+{"level":"info","message":{"ip":"::1","method":"POST","timestamp":"2024-11-26T22:01:01.267Z","url":"/cadastrarUsuario"},"timestamp":"2024-11-26T22:01:01.268Z"}
+{"level":"info","message":{"ip":"::1","method":"POST","timestamp":"2024-11-26T22:01:10.559Z","url":"/cadastrarUsuario"},"timestamp":"2024-11-26T22:01:10.559Z"}
+{"level":"info","message":{"ip":"::1","method":"POST","timestamp":"2024-11-26T22:03:11.669Z","url":"/cadastrarUsuario"},"timestamp":"2024-11-26T22:03:11.669Z"}
+{"level":"info","message":{"ip":"::1","method":"POST","timestamp":"2024-11-26T22:03:11.712Z","url":"/cadastrarUsuario"},"timestamp":"2024-11-26T22:03:11.712Z"}
